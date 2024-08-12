@@ -1,3 +1,3 @@
-# lgwt
+# lgwt-unit
 
-Exercises from [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+Unit test exercises from [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)

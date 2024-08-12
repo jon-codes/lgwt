@@ -1,4 +1,4 @@
-module github.com/jon-codes/lgwt
+module github.com/jon-codes/lgwt-unit
 
 go 1.22.6
 
